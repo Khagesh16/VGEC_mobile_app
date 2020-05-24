@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/home/khagesh/AndroidStudioProjects/VgApp/app/build/intermediates/res/merged/release/anim-v21/design_bottom_sheet_slide_out.xml",
+        "source": "/home/khagesh/.android/build-cache/ad5c14e90acb426550b1ff8e8e2d9743b3feb7d9/output/res/anim-v21/design_bottom_sheet_slide_out.xml"
+    },
+    {
+        "merged": "/home/khagesh/AndroidStudioProjects/VgApp/app/build/intermediates/res/merged/release/anim-v21/design_bottom_sheet_slide_in.xml",
+        "source": "/home/khagesh/.android/build-cache/ad5c14e90acb426550b1ff8e8e2d9743b3feb7d9/output/res/anim-v21/design_bottom_sheet_slide_in.xml"
+    }
+]

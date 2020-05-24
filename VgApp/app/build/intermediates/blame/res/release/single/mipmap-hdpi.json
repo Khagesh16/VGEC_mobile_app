@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "/home/khagesh/AndroidStudioProjects/VgApp/app/build/intermediates/res/merged/release/mipmap-hdpi/ic_launcher_round.png",
+        "source": "/home/khagesh/AndroidStudioProjects/VgApp/app/src/main/res/mipmap-hdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "/home/khagesh/AndroidStudioProjects/VgApp/app/build/intermediates/res/merged/release/mipmap-hdpi/ic_launcher.png",
+        "source": "/home/khagesh/AndroidStudioProjects/VgApp/app/src/main/res/mipmap-hdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/home/khagesh/AndroidStudioProjects/VgApp/app/build/intermediates/res/merged/release/mipmap-hdpi/symbol.png",
+        "source": "/home/khagesh/AndroidStudioProjects/VgApp/app/src/main/res/mipmap-hdpi/symbol.png"
+    }
+]

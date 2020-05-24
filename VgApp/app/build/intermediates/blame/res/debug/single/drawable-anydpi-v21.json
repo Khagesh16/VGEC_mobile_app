@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/home/khagesh/AndroidStudioProjects/VgApp/app/build/intermediates/res/merged/debug/drawable-anydpi-v21/design_ic_visibility.xml",
+        "source": "/home/khagesh/.android/build-cache/ad5c14e90acb426550b1ff8e8e2d9743b3feb7d9/output/res/drawable-anydpi-v21/design_ic_visibility.xml"
+    },
+    {
+        "merged": "/home/khagesh/AndroidStudioProjects/VgApp/app/build/intermediates/res/merged/debug/drawable-anydpi-v21/design_ic_visibility_off.xml",
+        "source": "/home/khagesh/.android/build-cache/ad5c14e90acb426550b1ff8e8e2d9743b3feb7d9/output/res/drawable-anydpi-v21/design_ic_visibility_off.xml"
+    }
+]

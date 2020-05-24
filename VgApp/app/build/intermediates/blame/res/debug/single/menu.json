@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/home/khagesh/AndroidStudioProjects/VgApp/app/build/intermediates/res/merged/debug/menu/activity_main_drawer.xml",
+        "source": "/home/khagesh/AndroidStudioProjects/VgApp/app/src/main/res/menu/activity_main_drawer.xml"
+    },
+    {
+        "merged": "/home/khagesh/AndroidStudioProjects/VgApp/app/build/intermediates/res/merged/debug/menu/main.xml",
+        "source": "/home/khagesh/AndroidStudioProjects/VgApp/app/src/main/res/menu/main.xml"
+    }
+]

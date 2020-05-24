@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">VgApp</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="dept_name">Choose a Department</string>
+
+    <string-array name="dept_array">
+        <item>Computer</item>
+        <item>Civil</item>
+        <item>Electrical</item>
+        <item>Mechanical</item>
+        <item>Chemical</item>
+        <item>Ec</item>
+        <item>IT</item>
+        <item>Power</item>
+    </string-array>
+</resources>
